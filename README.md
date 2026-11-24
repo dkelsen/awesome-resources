@@ -15,3 +15,7 @@ A curated collection of resources I've come across and think everyone should kno
 
 ## Data Privacy
 [CookieConsent v3](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js
+
+## LLM Rankings
+[Arena](https://arena.ai/leaderboard) - LLM model rankings based on user votes in head-to-head comparisons\
+[Artificial Analysis](https://artificialanalysis.ai/) - Independent comparisons of LLM models by performance, speed, and price
